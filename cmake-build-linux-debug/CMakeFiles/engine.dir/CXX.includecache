@@ -1,0 +1,140 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/d/onedrive - Uantwerpen/OneDrive - Universiteit Antwerpen/Documenten/Eerste jaar/semester 2/Graphics/projecten/project 2021-04-16/D3.h
+vector3d.h
+/mnt/d/onedrive - Uantwerpen/OneDrive - Universiteit Antwerpen/Documenten/Eerste jaar/semester 2/Graphics/projecten/project 2021-04-16/vector3d.h
+easy_image.h
+/mnt/d/onedrive - Uantwerpen/OneDrive - Universiteit Antwerpen/Documenten/Eerste jaar/semester 2/Graphics/projecten/project 2021-04-16/easy_image.h
+math.h
+-
+ini_configuration.h
+/mnt/d/onedrive - Uantwerpen/OneDrive - Universiteit Antwerpen/Documenten/Eerste jaar/semester 2/Graphics/projecten/project 2021-04-16/ini_configuration.h
+L3.h
+/mnt/d/onedrive - Uantwerpen/OneDrive - Universiteit Antwerpen/Documenten/Eerste jaar/semester 2/Graphics/projecten/project 2021-04-16/L3.h
+
+/mnt/d/onedrive - Uantwerpen/OneDrive - Universiteit Antwerpen/Documenten/Eerste jaar/semester 2/Graphics/projecten/project 2021-04-16/L2.h
+easy_image.h
+/mnt/d/onedrive - Uantwerpen/OneDrive - Universiteit Antwerpen/Documenten/Eerste jaar/semester 2/Graphics/projecten/project 2021-04-16/easy_image.h
+ini_configuration.h
+/mnt/d/onedrive - Uantwerpen/OneDrive - Universiteit Antwerpen/Documenten/Eerste jaar/semester 2/Graphics/projecten/project 2021-04-16/ini_configuration.h
+string
+-
+fstream
+-
+iostream
+-
+l_parser.h
+/mnt/d/onedrive - Uantwerpen/OneDrive - Universiteit Antwerpen/Documenten/Eerste jaar/semester 2/Graphics/projecten/project 2021-04-16/l_parser.h
+math.h
+-
+stack
+-
+
+/mnt/d/onedrive - Uantwerpen/OneDrive - Universiteit Antwerpen/Documenten/Eerste jaar/semester 2/Graphics/projecten/project 2021-04-16/L3.h
+easy_image.h
+/mnt/d/onedrive - Uantwerpen/OneDrive - Universiteit Antwerpen/Documenten/Eerste jaar/semester 2/Graphics/projecten/project 2021-04-16/easy_image.h
+ini_configuration.h
+/mnt/d/onedrive - Uantwerpen/OneDrive - Universiteit Antwerpen/Documenten/Eerste jaar/semester 2/Graphics/projecten/project 2021-04-16/ini_configuration.h
+string
+-
+fstream
+-
+iostream
+-
+l_parser.h
+/mnt/d/onedrive - Uantwerpen/OneDrive - Universiteit Antwerpen/Documenten/Eerste jaar/semester 2/Graphics/projecten/project 2021-04-16/l_parser.h
+math.h
+-
+stack
+-
+
+/mnt/d/onedrive - Uantwerpen/OneDrive - Universiteit Antwerpen/Documenten/Eerste jaar/semester 2/Graphics/projecten/project 2021-04-16/Light.h
+easy_image.h
+/mnt/d/onedrive - Uantwerpen/OneDrive - Universiteit Antwerpen/Documenten/Eerste jaar/semester 2/Graphics/projecten/project 2021-04-16/easy_image.h
+ini_configuration.h
+/mnt/d/onedrive - Uantwerpen/OneDrive - Universiteit Antwerpen/Documenten/Eerste jaar/semester 2/Graphics/projecten/project 2021-04-16/ini_configuration.h
+
+/mnt/d/onedrive - Uantwerpen/OneDrive - Universiteit Antwerpen/Documenten/Eerste jaar/semester 2/Graphics/projecten/project 2021-04-16/ZBuffer.h
+vector
+-
+limits
+-
+
+/mnt/d/onedrive - Uantwerpen/OneDrive - Universiteit Antwerpen/Documenten/Eerste jaar/semester 2/Graphics/projecten/project 2021-04-16/easy_image.h
+stdint.h
+-
+vector
+-
+iostream
+-
+list
+-
+math.h
+-
+algorithm
+-
+vector3d.h
+/mnt/d/onedrive - Uantwerpen/OneDrive - Universiteit Antwerpen/Documenten/Eerste jaar/semester 2/Graphics/projecten/project 2021-04-16/vector3d.h
+ZBuffer.h
+/mnt/d/onedrive - Uantwerpen/OneDrive - Universiteit Antwerpen/Documenten/Eerste jaar/semester 2/Graphics/projecten/project 2021-04-16/ZBuffer.h
+
+/mnt/d/onedrive - Uantwerpen/OneDrive - Universiteit Antwerpen/Documenten/Eerste jaar/semester 2/Graphics/projecten/project 2021-04-16/engine.cc
+easy_image.h
+/mnt/d/onedrive - Uantwerpen/OneDrive - Universiteit Antwerpen/Documenten/Eerste jaar/semester 2/Graphics/projecten/project 2021-04-16/easy_image.h
+ini_configuration.h
+/mnt/d/onedrive - Uantwerpen/OneDrive - Universiteit Antwerpen/Documenten/Eerste jaar/semester 2/Graphics/projecten/project 2021-04-16/ini_configuration.h
+fstream
+-
+iostream
+-
+stdexcept
+-
+string
+-
+L2.h
+/mnt/d/onedrive - Uantwerpen/OneDrive - Universiteit Antwerpen/Documenten/Eerste jaar/semester 2/Graphics/projecten/project 2021-04-16/L2.h
+D3.h
+/mnt/d/onedrive - Uantwerpen/OneDrive - Universiteit Antwerpen/Documenten/Eerste jaar/semester 2/Graphics/projecten/project 2021-04-16/D3.h
+chrono
+-
+ctime
+-
+thread
+-
+Light.h
+/mnt/d/onedrive - Uantwerpen/OneDrive - Universiteit Antwerpen/Documenten/Eerste jaar/semester 2/Graphics/projecten/project 2021-04-16/Light.h
+
+/mnt/d/onedrive - Uantwerpen/OneDrive - Universiteit Antwerpen/Documenten/Eerste jaar/semester 2/Graphics/projecten/project 2021-04-16/ini_configuration.h
+iostream
+-
+map
+-
+stdexcept
+-
+string
+-
+vector
+-
+
+/mnt/d/onedrive - Uantwerpen/OneDrive - Universiteit Antwerpen/Documenten/Eerste jaar/semester 2/Graphics/projecten/project 2021-04-16/l_parser.h
+map
+-
+string
+-
+set
+-
+exception
+-
+vector
+-
+
+/mnt/d/onedrive - Uantwerpen/OneDrive - Universiteit Antwerpen/Documenten/Eerste jaar/semester 2/Graphics/projecten/project 2021-04-16/vector3d.h
+iostream
+-
+

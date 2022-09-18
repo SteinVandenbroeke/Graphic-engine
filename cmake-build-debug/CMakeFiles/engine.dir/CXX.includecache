@@ -1,0 +1,72 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/onedrive - Uantwerpen/OneDrive - Universiteit Antwerpen/Documenten/Eerste jaar/semester 2/Graphics/projecten/project 2021-04-16/Light.h
+easy_image.h
+D:/onedrive - Uantwerpen/OneDrive - Universiteit Antwerpen/Documenten/Eerste jaar/semester 2/Graphics/projecten/project 2021-04-16/easy_image.h
+ini_configuration.h
+D:/onedrive - Uantwerpen/OneDrive - Universiteit Antwerpen/Documenten/Eerste jaar/semester 2/Graphics/projecten/project 2021-04-16/ini_configuration.h
+
+D:/onedrive - Uantwerpen/OneDrive - Universiteit Antwerpen/Documenten/Eerste jaar/semester 2/Graphics/projecten/project 2021-04-16/ZBuffer.h
+vector
+-
+limits
+-
+
+D:/onedrive - Uantwerpen/OneDrive - Universiteit Antwerpen/Documenten/Eerste jaar/semester 2/Graphics/projecten/project 2021-04-16/easy_image.cc
+easy_image.h
+D:/onedrive - Uantwerpen/OneDrive - Universiteit Antwerpen/Documenten/Eerste jaar/semester 2/Graphics/projecten/project 2021-04-16/easy_image.h
+algorithm
+-
+assert.h
+-
+math.h
+-
+iostream
+-
+Light.h
+D:/onedrive - Uantwerpen/OneDrive - Universiteit Antwerpen/Documenten/Eerste jaar/semester 2/Graphics/projecten/project 2021-04-16/Light.h
+chrono
+-
+thread
+-
+
+D:/onedrive - Uantwerpen/OneDrive - Universiteit Antwerpen/Documenten/Eerste jaar/semester 2/Graphics/projecten/project 2021-04-16/easy_image.h
+stdint.h
+-
+vector
+-
+iostream
+-
+list
+-
+math.h
+-
+algorithm
+-
+vector3d.h
+D:/onedrive - Uantwerpen/OneDrive - Universiteit Antwerpen/Documenten/Eerste jaar/semester 2/Graphics/projecten/project 2021-04-16/vector3d.h
+ZBuffer.h
+D:/onedrive - Uantwerpen/OneDrive - Universiteit Antwerpen/Documenten/Eerste jaar/semester 2/Graphics/projecten/project 2021-04-16/ZBuffer.h
+
+D:/onedrive - Uantwerpen/OneDrive - Universiteit Antwerpen/Documenten/Eerste jaar/semester 2/Graphics/projecten/project 2021-04-16/ini_configuration.h
+iostream
+-
+map
+-
+stdexcept
+-
+string
+-
+vector
+-
+
+D:/onedrive - Uantwerpen/OneDrive - Universiteit Antwerpen/Documenten/Eerste jaar/semester 2/Graphics/projecten/project 2021-04-16/vector3d.h
+iostream
+-
+
